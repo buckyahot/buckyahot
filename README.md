@@ -21,9 +21,6 @@ Mi fascinación por la ciberseguridad me ha llevado a embarcarme en un viaje edu
 ## Proyectos Destacados
 
 - [Proyecto Python]([Enlace al Proyecto](https://github.com/buckyahot/omec-tool/tree/main)): Lanzado oficialmente tengo solamente una tool básica que ayuda a hacer varias cosas para uso personal, escanear dispositivos que tienes en tu red, control remoto acceso con la IP, Obtener información con la IP.
-- [Proyecto Java](Enlace al Proyecto): Próximamente.
-- [Proyecto C#](Enlace al Proyecto): Próximamente.
-- [Proyecto Web](Enlace al Proyecto): Próximamente.
 
 ## Estadísticas de GitHub
 
@@ -31,8 +28,7 @@ Mi fascinación por la ciberseguridad me ha llevado a embarcarme en un viaje edu
 
 ## Conéctate
 
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario)
-- [Twitter](https://twitter.com/tu_usuario)
-- [Sitio Web Personal](https://www.tu-sitio-web.com)
+- [Twitter](https://twitter.com/buckyahot)
+- [Sitio Web Personal](https://www.poetty.dev)
 
 ¡Gracias por visitar mi perfil! 👨‍💻
