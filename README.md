@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Poetty (Alias Buckyahot)
 
-Soy un apasionado desarrollador de software con un interés especial en ciberseguridad. Actualmente, estoy completando un grado superior en Administración de Sistemas Informáticos en Red (ASIR) y planeo especializarme en ciberseguridad en el futuro.
+Soy un apasionado desarrollador de software con un interés especial en ciberseguridad. Actualmente, estoy completando un grado medio de Sistemas Microinformáticos y Redes (SMR), luego cuando termine este año me meteré a un superior en Administración de Sistemas Informáticos en Red (ASIR) y planeo especializarme en ciberseguridad en el futuro.
 
 ## Lenguajes y Herramientas
 
