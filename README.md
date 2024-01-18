@@ -24,7 +24,7 @@ Mi fascinación por la ciberseguridad me ha llevado a embarcarme en un viaje edu
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=buckyahot&show_icons=true&hide_border=true)
 
 ## Conéctate
 
