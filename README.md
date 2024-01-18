@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Poetty] (Alias Buckyahot)
+# ¡Hola! 👋 Soy Poetty (Alias Buckyahot)
 
 Soy un apasionado desarrollador de software con un interés especial en ciberseguridad. Actualmente, estoy completando un grado superior en Administración de Sistemas Informáticos en Red (ASIR) y planeo especializarme en ciberseguridad en el futuro.
 
